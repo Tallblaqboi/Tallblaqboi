@@ -1,7 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQENxH4et7bJkA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1705316886670?e=1753315200&v=beta&t=TyDFWog2BliW94SRVOF6EdhqeY-RSA5vvhoOl-T5lf8)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQENxH4et7bJkA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1705316886670?e=1753315200&v=beta&t=TyDFWog2BliW94SRVOF6EdhqeY-RSA5vvhoOl-T5lf8)]
 <h1 align="center">Hi 👋, I'm Yinka Matthew Tanimola</h1>
-<h3 align="center">A passionate and results-oriented Data Analyst. I thrive on transforming raw data into meaningful insights that drive informed decision-making.</h3>
-
+<h3 align="center">A passionate and results-oriented Data Analyst. 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tallblaqboi" alt="tallblaqboi" /></a> </p>
 [Yinka Matthew Tanimola](https://www.linkedin.com/in/yinka-tanimola-261bb0352/) Is a data analyst expert with a strong foundation in Python, SQL, R and expertise in predictive modeling, causal inference, time series analysis. Demonstrated success in developing forecasting models that improved inventory management by 80%, identifying key drivers of customer churn, creating interactive dashboards for real-time performance monitoring. Passionate about applying data-driven insights to solve complex business problems and drive strategic growth.
 
